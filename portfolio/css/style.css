@@ -1,0 +1,44 @@
+.bimage {
+  background-image: url("https://images.unsplash.com/photo-1484061305560-3133ddda73cf?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&s=c503109b9977fa9b5a3521bb6f247752");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding-bottom:20%;
+  padding-top:20%;
+}
+
+.name {
+  color:#8A6B54;
+  
+}
+
+body {
+  background-color:#D6E0EA;
+}
+
+.portfolio {
+  padding-top: 5%;
+}
+
+.heading {
+  padding:10px;
+  background-color:#3B4C59;
+  position: fixed;
+  width: 100%;
+  left:0;
+
+}
+
+.menub1 {
+  background:#8A6B54;
+  color:#D6E0EA;
+}
+
+.menub2 {
+  background:#D9B465;
+  color:#D6E0EA;
+}
+
+.menub3 {
+  background:#A49287;
+  color:#D6E0EA;
+}
