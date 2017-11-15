@@ -1,2 +1,2 @@
 # Portfolio
-freecodecmp project
+freecodecamp project
